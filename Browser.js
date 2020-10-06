@@ -1,6 +1,6 @@
 const _ = require('underscore');
 const EventEmitter = require('events');
-const puppeteer = require('puppeteer');
+const puppeteer = require('puppeteer-core');
 
 class Browser extends EventEmitter {
 
