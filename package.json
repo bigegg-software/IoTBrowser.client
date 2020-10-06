@@ -12,7 +12,7 @@
     "alibabacloud-iot-device-sdk": "^1.2.8",
     "cron": "^1.8.2",
     "moment": "^2.27.0",
-    "puppeteer": "^4.0.1",
+    "puppeteer-core": "^5.3.1",
     "underscore": "^1.10.2"
   }
 }
